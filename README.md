@@ -1,4 +1,4 @@
-Full Stack NFT Minter
+#Full Stack NFT Minter
 
 This applications mints NFTs on the Ropsten Testnet through an ERC721 standard smart contract
 
